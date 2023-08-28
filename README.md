@@ -70,6 +70,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### Demo :
-https://airbnb-clone-5c5335.netlify.app/
+**https://airbnb-clone-5c5335.netlify.app/**
 
 ### Screenshots 
+![1](https://github.com/TusharNandanwar/Airbnb-Clone-React-App/assets/93318949/e7d88317-9047-465e-8960-586815a4d20e)
+![2](https://github.com/TusharNandanwar/Airbnb-Clone-React-App/assets/93318949/1295ee9a-e9ee-4e95-85fa-91f192d1af02)
+![3](https://github.com/TusharNandanwar/Airbnb-Clone-React-App/assets/93318949/4b47bff3-88b2-46d0-a97b-aa45d2b05ec5)
+![4](https://github.com/TusharNandanwar/Airbnb-Clone-React-App/assets/93318949/802e2333-f354-46c4-9bef-8e86a46fb422)
